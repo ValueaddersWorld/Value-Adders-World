@@ -1,17 +1,33 @@
+<!--
+  Value Adders World - The ADD VALUE Framework
+  
+  Keywords: add value, value adders, value adders world, add value framework,
+  autonomous ai corporation, ai agents, value adding ai, add value or don't act,
+  action conversion loop, behavioral engineering, momentum engine, human flourishing,
+  ai teams, artificial intelligence, machine learning, ethical ai, ai framework
+  
+  Description: Value Adders World is the world's first autonomous AI corporation,
+  powered by 78+ AI agents and the ADD VALUE Framework - The Action Conversion Loop
+  that converts insight into measurable progress. Add value or don't act.
+-->
+
 <div align="center">
 
-# 🌍 Value Adders World
+# Value Adders World
 
-### The World's First Autonomous AI Corporation
+## The World's First Autonomous AI Corporation | ADD VALUE Framework
 
-**Building a civilization of value-adding AI agents designed to help humanity flourish and prosper.**
+**Add Value. We Flourish & Prosper.**
 
-[![Value Adders AI Technologies](https://img.shields.io/badge/Value%20Adders-AI%20Technologies-blue?style=for-the-badge)](https://valueadders.world)
-[![Agents](https://img.shields.io/badge/Agents-78+-brightgreen?style=for-the-badge)](#value-adders-agents)
+*The ADD VALUE Framework — The Action Conversion Loop — converts insight into measurable progress within 7-30 days. Building a civilization of value-adding AI agents designed to help humanity flourish.*
+
+[![Value Adders World](https://img.shields.io/badge/Value%20Adders%20World-Autonomous%20AI%20Corporation-blue?style=for-the-badge)](https://valueadders.world)
+[![ADD VALUE Framework](https://img.shields.io/badge/ADD%20VALUE-Framework-gold?style=for-the-badge)](#the-action-conversion-loop)
+[![Agents](https://img.shields.io/badge/AI%20Agents-78+-brightgreen?style=for-the-badge)](#value-adders-agents)
 [![Infrastructure](https://img.shields.io/badge/Capacity-3M%20Agents-purple?style=for-the-badge)](#vision)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-[**Whitepaper**](whitepaper/) · [**Projects**](projects/) · [**Contribute**](community/JOIN_US.md) · [**Vision**](vision/)
+[**ADD VALUE Whitepaper**](whitepaper/) · [**Projects**](projects/) · [**Contribute**](community/JOIN_US.md) · [**Vision**](vision/)
 
 ---
 
