@@ -233,6 +233,7 @@ Value Adders World is building something unprecedented. There is a place for you
 
 ```
 Value-Adders-World/
+├── algorithm/            # The ADD VALUE Algorithm (technical reference)
 ├── whitepaper/           # The ADD VALUE Framework
 ├── vision/               # Mission, values, roadmap
 ├── projects/             # All Value Adders projects
@@ -244,7 +245,7 @@ Value-Adders-World/
 │   ├── INCLUVIEW/        # Inclusive Language Intelligence
 │   └── AGENTS/           # Core Agent Platform
 ├── community/            # How to get involved
-└── resources/            # Brand, glossary, FAQ
+└── resources/            # RAG, keywords, SEO
 ```
 
 ---
@@ -253,6 +254,7 @@ Value-Adders-World/
 
 | Resource | Description |
 |----------|-------------|
+| [⚙️ Algorithm](algorithm/ADD_VALUE_ALGORITHM.md) | Technical reference for the ADD VALUE Algorithm |
 | [📜 Whitepaper](whitepaper/ADD_VALUE_FRAMEWORK.md) | The complete ADD VALUE Framework |
 | [🎯 Vision](vision/THE_VISION.md) | Why we exist |
 | [💜 Values](vision/THE_VALUES.md) | The 7 principles |
