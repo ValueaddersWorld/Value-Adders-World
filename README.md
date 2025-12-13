@@ -93,13 +93,14 @@ All projects under the Value Adders umbrella share the core philosophy: **"Add v
 | [**🎵 Papito Mamito AI**](projects/PAPITO/) | The Autonomous Afrobeat AI Artist. 24/7 autonomous creative engine spreading empowerment through music. | 🟢 **LIVE** |
 | [**🛡️ PathLog**](projects/PATHLOG/) | Enterprise-grade security agent & encrypted memory service. AES-256-GCM encryption for the entire ecosystem. | 🟢 Active |
 | [**💰 Akuoma**](projects/AKUOMA/) | AI-powered microfinance for financial inclusion. Breaking the cycle of poverty through intelligent lending. | 🟡 Development |
+| [**🗣️ Incluview AI**](projects/INCLUVIEW/) | Inclusive Language Intelligence. Real-time bias detection across 7+ categories with adaptive learning. | 🟢 Active |
 | [**🤖 Value Adders Agents**](projects/AGENTS/) | The core 78+ agent platform powering all operations. | 🟢 Active |
 
 ### 📋 Future Projects
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **🗣️ Incluview** | Inclusive Language Intelligence - making communication more accessible | Planned |
+
 | **🔮 Valutoria** | Play-money prediction markets - collective intelligence without addiction | Planned |
 | **🏆 Gold Lord 2.0** | VIP Trading Strategy - intelligent, adaptive financial strategies | Planned |
 
@@ -212,6 +213,7 @@ Value-Adders-World/
 │   ├── PAPITO/           # Papito Mamito AI
 │   ├── PATHLOG/          # Security & Encrypted Memory
 │   ├── AKUOMA/           # Microfinance Platform
+│   ├── INCLUVIEW/        # Inclusive Language Intelligence
 │   └── AGENTS/           # Core Agent Platform
 ├── community/            # How to get involved
 └── resources/            # Brand, glossary, FAQ

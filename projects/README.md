@@ -82,17 +82,19 @@ Breaking the cycle of poverty through intelligent lending that serves the underb
 
 ---
 
-## 📋 Planned Projects
-
-### 🗣️ Incluview
+### 🗣️ [Incluview AI](INCLUVIEW/)
 
 **Mission:** Inclusive Language Intelligence
 
-Making communication more inclusive, respectful, and accessible to all humans.
+Making communication more inclusive, respectful, and accessible to all humans. Real-time bias detection across 7+ categories with adaptive learning.
 
-| Status | Focus |
-|--------|-------|
-| 🔵 Planned | Language analysis, accessibility |
+| Status | Tech | Highlights |
+|--------|------|------------|
+| 🟢 Active | Python, Flask, React, spaCy | 7+ Bias Categories, Adaptive Learning |
+
+---
+
+## 📋 Planned Projects
 
 ---
 
