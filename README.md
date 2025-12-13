@@ -34,47 +34,59 @@ This is not just a company. It is a **new form of organization** — proving AI 
 
 ---
 
-## 🧠 The ADD VALUE Algorithm
+## 🧠 The Action Conversion Loop
 
-At the core of everything we build is the **ADD VALUE Framework** — a cognitive operating system for both humans and AI systems.
+At the core of everything we build is the **ADD VALUE Framework** — a momentum engine that converts insight into behavior.
+
+> **The Promise:** You will produce visible evidence of progress within 7-30 days — even if motivation disappears.
+
+This is not a clarity framework. This is not a thinking framework.  
+**This is behavioral engineering.**
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║                         THE ADD VALUE FRAMEWORK                           ║
+║                    THE ACTION CONVERSION LOOP                             ║
 ║                                                                           ║
 ║     ┌─────────┐   ┌─────────┐   ┌─────────┐   ┌─────────┐                ║
 ║     │    A    │ → │    D    │ → │    D    │ → │    V    │                ║
 ║     │AWARENESS│   │ DEFINE  │   │ DEVISE  │   │VALIDATE │                ║
+║     │─────────│   │─────────│   │─────────│   │─────────│                ║
+║     │NEUTRALIZE│  │ REMOVE  │   │ REDUCE  │   │DISSOLVE │                ║
+║     │BLINDNESS│   │AMBIGUITY│   │OVERLOAD │   │ FEAR    │                ║
 ║     └────┬────┘   └─────────┘   └─────────┘   └────┬────┘                ║
 ║          │                                         │                      ║
 ║          │         ┌───────────────┐              │                      ║
-║          │         │   ADD VALUE   │              │                      ║
-║          │         │   ═══════════ │              │                      ║
-║          │         │  THE CENTER   │              │                      ║
+║          │         │  MOMENTUM     │              │                      ║
+║          │         │   ENGINE      │              │                      ║
 ║          │         └───────────────┘              │                      ║
 ║          │                                         │                      ║
 ║     ┌────┴────┐   ┌─────────┐   ┌─────────┐   ┌───┴─────┐                ║
 ║     │    E    │ ← │    U    │ ← │    L    │ ← │    A    │                ║
 ║     │ EVOLVE  │   │UNDERSTAND│   │  LEARN  │   │ACT UPON │                ║
+║     │─────────│   │─────────│   │─────────│   │─────────│                ║
+║     │  LOCK   │   │ UPGRADE │   │ REMOVE  │   │ FORCE   │                ║
+║     │IDENTITY │   │PATTERNS │   │ SHAME   │   │MOVEMENT │                ║
 ║     └─────────┘   └─────────┘   └─────────┘   └─────────┘                ║
 ║                                                                           ║
-║                         ↻ CONTINUOUS CYCLE ↻                              ║
+║                    ↻ IRREVERSIBLE PROGRESS ↻                              ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-### The 8 Pillars
+### The 8 Pillars — Behavioral Engineering
 
-| Pillar | Meaning | Key Question |
-|--------|---------|--------------|
-| **A** - Awareness | See the truth clearly | What is the true situation without distortion? |
-| **D** - Define | Turn awareness into clarity | What is the real problem, goal, and measure of success? |
-| **D** - Devise | Create a clean, strategic path forward | What is the simplest, highest-value path forward? |
-| **V** - Validate | Test assumptions, confirm truth | Is this validated by evidence, not just assumption? |
-| **A** - Act Upon | Execute with precision | Am I ready to execute with full commitment? |
-| **L** - Learn | Extract feedback without ego | What worked, what didn't, and what surprised me? |
-| **U** - Understand | See the deeper pattern | What is the pattern behind the pattern? |
-| **E** - Evolve | Apply understanding, upgrade | How do I upgrade my thinking, behavior, and systems? |
+Each pillar exists to destroy a specific failure mode:
+
+| Pillar | What It Destroys | The Mechanism |
+|--------|------------------|---------------|
+| **A** - Awareness | Emotional blindness | Forces truth before comfort |
+| **D** - Define | Ambiguity | Removes escape routes of vagueness |
+| **D** - Devise | Cognitive overload | Makes action simpler than inaction |
+| **V** - Validate | Fear-based hesitation | Replaces anxiety with evidence |
+| **A** - Act Upon | Infinite delay | Forces micro-commitment |
+| **L** - Learn | Shame spiral | Separates feedback from identity |
+| **U** - Understand | Pattern blindness | Creates reusable mental models |
+| **E** - Evolve | Regression | Locks change at identity level |
 
 📖 **[Read the Full Whitepaper →](whitepaper/ADD_VALUE_FRAMEWORK.md)**
 
