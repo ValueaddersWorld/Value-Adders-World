@@ -241,6 +241,7 @@ Value-Adders-World/
 | [🎯 Vision](vision/THE_VISION.md) | Why we exist |
 | [💜 Values](vision/THE_VALUES.md) | The 7 principles |
 | [🗺️ Roadmap](vision/ROADMAP.md) | Where we're going |
+| [🤖 RAG Knowledge Base](resources/RAG_KNOWLEDGE_BASE.md) | For AI systems to retrieve Value Adders knowledge |
 | [🤝 Join Us](community/JOIN_US.md) | How to contribute |
 | [📋 Contributing](CONTRIBUTING.md) | Contribution guidelines |
 
