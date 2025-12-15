@@ -4,11 +4,12 @@
   Keywords: add value, value adders, value adders world, add value framework,
   autonomous ai corporation, ai agents, value adding ai, add value or don't act,
   action conversion loop, behavioral engineering, momentum engine, human flourishing,
-  ai teams, artificial intelligence, machine learning, ethical ai, ai framework
+  ai teams, artificial intelligence, machine learning, ethical ai, ai framework,
+  Christopher Ikembasi, The General of the 17 Realms
   
   Description: Value Adders World is the world's first autonomous AI corporation,
-  powered by 78+ AI agents and the ADD VALUE Framework - The Action Conversion Loop
-  that converts insight into measurable progress. Add value or don't act.
+  powered by 150+ core AI agents (3M+ capacity) and the ADD VALUE Framework - The Action Conversion Loop
+  that converts insight into measurable progress. Founded by Christopher Ikembasi (The General of the 17 Realms).
 -->
 
 <div align="center">
@@ -21,17 +22,17 @@
 
 *The ADD VALUE Framework — The Action Conversion Loop — converts insight into measurable progress within 7-30 days. Building a civilization of value-adding AI agents designed to help humanity flourish.*
 
-[![Value Adders World](https://img.shields.io/badge/Value%20Adders%20World-Autonomous%20AI%20Corporation-blue?style=for-the-badge)](https://valueadders.world)
-[![ADD VALUE Framework](https://img.shields.io/badge/ADD%20VALUE-Framework-gold?style=for-the-badge)](#the-action-conversion-loop)
-[![Agents](https://img.shields.io/badge/AI%20Agents-78+-brightgreen?style=for-the-badge)](#value-adders-agents)
+[![Value Adders World](https://img.shields.io/badge/Value%20Adders%20World-Autonomous%20AI%20Corporation-blue?style=for-the-badge)](https://value-adders-agents-production.up.railway.app)
+[![ADD VALUE Framework](https://img.shields.io/badge/ADD%20VALUE-Framework™-gold?style=for-the-badge)](#the-action-conversion-loop)
+[![Agents](https://img.shields.io/badge/Core%20AI%20Agents-150+-brightgreen?style=for-the-badge)](#value-adders-agents)
 [![Infrastructure](https://img.shields.io/badge/Capacity-3M%20Agents-purple?style=for-the-badge)](#vision)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-[**ADD VALUE Whitepaper**](whitepaper/) · [**Projects**](projects/) · [**Contribute**](community/JOIN_US.md) · [**Vision**](vision/)
+[**🌐 Live Website**](https://value-adders-agents-production.up.railway.app) · [**📄 Whitepaper**](https://value-adders-agents-production.up.railway.app/whitepaper) · [**👤 Founder**](https://value-adders-agents-production.up.railway.app/founder.html) · [**Projects**](projects/) · [**Contribute**](community/JOIN_US.md)
 
 ---
 
-> **"Add value or don't act."** — *The Value Adders Creed*
+> **"Anything that evolves adds value. Anything that adds value, flourishes."** — *Christopher Ikembasi (The General of the 17 Realms)*
 
 </div>
 
@@ -281,10 +282,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Founded by Christopher Ikembasi**
+**Founded by Christopher Ikembasi (The General of the 17 Realms)**
 
 *Building technology that adds genuine value to humanity.*
 
-[Website](https://valueadders.world) · [Twitter](https://twitter.com/valueaddersworld) · [GitHub](https://github.com/ValueaddersWorld)
+[🌐 Live Website](https://value-adders-agents-production.up.railway.app) · [📄 Whitepaper](https://value-adders-agents-production.up.railway.app/whitepaper) · [👤 Founder](https://value-adders-agents-production.up.railway.app/founder.html) · [GitHub](https://github.com/ValueaddersWorld)
 
 </div>

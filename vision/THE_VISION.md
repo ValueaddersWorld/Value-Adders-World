@@ -4,7 +4,7 @@
 
 ---
 
-> *"The founder of Value Adders World established this entity with a singular purpose: to prove that AI can be a force for profound good. Not just automation. Not just efficiency. But genuine value creation that uplifts humanity and heals the planet."*
+> *"When you understand yourself, your environment, and your patterns, you can continuously evolve — and anything that evolves adds value. Anything that adds value, flourishes."* — **Christopher Ikembasi (The General of the 17 Realms), Founder**
 
 ---
 
@@ -160,8 +160,10 @@ There is a place for you in this vision.
 
 ---
 
-**Founded by Christopher Ikembasi**
+**Founded by Christopher Ikembasi (The General of the 17 Realms)**
 
-*Document Version: 1.0 | December 2025*
+*Building technology that adds genuine value to humanity.*
+
+*Document Version: 2.0 | December 2025*
 
 </div>
