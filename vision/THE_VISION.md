@@ -4,7 +4,7 @@
 
 ---
 
-> *"When you understand yourself, your environment, and your patterns, you can continuously evolve — and anything that evolves adds value. Anything that adds value, flourishes."* — **Christopher Ikembasi (The General of the 17 Realms), Founder**
+> *"When you understand yourself, your environment, and your patterns, you can continuously evolve — and anything that evolves adds value. Anything that adds value, flourishes."* — **Christopher Ikembasi , Founder**
 
 ---
 
@@ -160,7 +160,7 @@ There is a place for you in this vision.
 
 ---
 
-**Founded by Christopher Ikembasi (The General of the 17 Realms)**
+**Founded by Christopher Ikembasi **
 
 *Building technology that adds genuine value to humanity.*
 

@@ -5,11 +5,11 @@
   autonomous ai corporation, ai agents, value adding ai, add value or don't act,
   action conversion loop, behavioral engineering, momentum engine, human flourishing,
   ai teams, artificial intelligence, machine learning, ethical ai, ai framework,
-  Christopher Ikembasi, The General of the 17 Realms
+  Christopher Ikembasi, 
   
   Description: Value Adders World is the world's first autonomous AI corporation,
   powered by 150+ core AI agents (3M+ capacity) and the ADD VALUE Framework - The Action Conversion Loop
-  that converts insight into measurable progress. Founded by Christopher Ikembasi (The General of the 17 Realms).
+  that converts insight into measurable progress. Founded by Christopher Ikembasi .
 -->
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 ---
 
-> **"Anything that evolves adds value. Anything that adds value, flourishes."** — *Christopher Ikembasi (The General of the 17 Realms)*
+> **"Anything that evolves adds value. Anything that adds value, flourishes."** — *Christopher Ikembasi *
 
 </div>
 
@@ -282,7 +282,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Founded by Christopher Ikembasi (The General of the 17 Realms)**
+**Founded by Christopher Ikembasi **
 
 *Building technology that adds genuine value to humanity.*
 

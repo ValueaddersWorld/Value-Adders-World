@@ -9,7 +9,7 @@
 **WHITEPAPER — VERSION 2.0**
 
 **By Value Adders World**  
-**Founder:** Christopher Ikembasi (The General of the 17 Realms)  
+**Founder:** Christopher Ikembasi   
 **2025 Edition**
 
 ---

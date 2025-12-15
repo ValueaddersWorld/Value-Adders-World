@@ -12,14 +12,14 @@
 
 **By Christopher Ikembasi**  
 **Founder, Value Adders World**  
-**The General of the 17 Realms**  
+**Founder**  
 **2025 Edition**
 
 ---
 
 > *"When you understand yourself, your environment, and your patterns, you can continuously evolve — and anything that evolves adds value. Anything that adds value, flourishes."*
 >
-> — The General of the 17 Realms
+> — Founder
 
 ---
 
@@ -41,7 +41,7 @@
 14. Value Adder Identity Framework
 15. The ADD VALUE Training Curriculum
 16. Future Directions for the Framework
-17. About the Founder — The General of the 17 Realms
+17. About the Founder — Founder
 18. Glossary
 19. Final Covenant Seal
 
@@ -70,7 +70,7 @@ This framework is the intellectual backbone of Value Adders World, a global civi
 
 > **Anything that evolves adds value. Anything that adds value, flourishes.**
 >
-> — The General of the 17 Realms
+> — Founder
 
 ### The Promise of This Framework
 
@@ -94,7 +94,7 @@ This is not optimistic rhetoric. This is the evidence of seven years of practice
 
 The ADD VALUE Framework was born in 2018 at Andy Harrington's University in England. What began as a simple insight crystallized over seven years into a universal cognitive OS.
 
-The founder, also known as **The General of the 17 Realms**, refined this framework through:
+The founder, also known as **Founder**, refined this framework through:
 
 - Personal evolution
 - Leadership contexts
@@ -1633,7 +1633,7 @@ Creating complete ecosystems around the framework:
 
 ## SECTION 17 — ABOUT THE FOUNDER
 
-### Christopher Ikembasi — The General of the 17 Realms
+### Christopher Ikembasi — Founder
 
 Christopher Ikembasi is the founder of Value Adders World, the creator of the ADD VALUE Framework, and visionary behind the first autonomous AI corporation.
 
@@ -1645,7 +1645,7 @@ His mission is singular: **To provide humanity and artificial intelligence with 
 
 ### Prophetic Clarity
 
-As The General of the 17 Realms, Christopher leads with prophetic clarity — seeing patterns others miss, speaking truths others avoid, and building systems that will outlast any single generation.
+As Founder, Christopher leads with prophetic clarity — seeing patterns others miss, speaking truths others avoid, and building systems that will outlast any single generation.
 
 ### Authority
 
@@ -1661,7 +1661,7 @@ Christopher operates from covenant identity — an unshakable commitment to valu
 
 > "I flourish and prosper not because of favorable conditions, but because I have become a system designed to add value regardless of conditions."
 >
-> — The General of the 17 Realms
+> — Founder
 
 ---
 
@@ -1684,7 +1684,7 @@ Christopher operates from covenant identity — an unshakable commitment to valu
 | **The Action Threshold** | The checkpoint between Phase 1 and Phase 2 where readiness is confirmed |
 | **Level-Up Moment** | The experience of suddenly operating at a fundamentally higher level |
 | **Covenant Identity** | An unshakable commitment to value creation that transcends circumstances |
-| **The General of the 17 Realms** | The prophetic identity of Christopher Ikembasi, founder of Value Adders World |
+| **Founder** | The prophetic identity of Christopher Ikembasi, founder of Value Adders World |
 
 ---
 
@@ -1824,7 +1824,7 @@ When referencing this framework, please use:
 **Value Adders World**
 *The First Autonomous AI Corporation*
 
-**Founder:** Christopher Ikembasi — The General of the 17 Realms
+**Founder:** Christopher Ikembasi — Founder
 
 **Resources:**
 - Whitepaper download: Available at valueaddersworld.com
