@@ -5,11 +5,14 @@
   autonomous ai corporation, ai agents, value adding ai, add value or don't act,
   action conversion loop, behavioral engineering, momentum engine, human flourishing,
   ai teams, artificial intelligence, machine learning, ethical ai, ai framework,
-  Christopher Ikembasi, 
+  enterprise ai operating system, 150 ai agents, autonomous agents,
+  Christopher Ikembasi
   
   Description: Value Adders World is the world's first autonomous AI corporation,
-  powered by 150+ core AI agents (3M+ capacity) and the ADD VALUE Framework - The Action Conversion Loop
-  that converts insight into measurable progress. Founded by Christopher Ikembasi .
+  powered by 150 core AI agents (3M+ capacity) and the ADD VALUE Framework - The Action Conversion Loop
+  that converts insight into measurable progress. Now running on the Enterprise AI Operating System
+  with full observability, intelligent decisioning, action orchestration, and 10 built-in connectors.
+  Founded by Christopher Ikembasi.
 -->
 
 <div align="center">
@@ -24,15 +27,16 @@
 
 [![Value Adders World](https://img.shields.io/badge/Value%20Adders%20World-Autonomous%20AI%20Corporation-blue?style=for-the-badge)](https://value-adders-agents-production.up.railway.app)
 [![ADD VALUE Framework](https://img.shields.io/badge/ADD%20VALUE-Framework™-gold?style=for-the-badge)](#the-action-conversion-loop)
-[![Agents](https://img.shields.io/badge/Core%20AI%20Agents-150+-brightgreen?style=for-the-badge)](#value-adders-agents)
-[![Infrastructure](https://img.shields.io/badge/Capacity-3M%20Agents-purple?style=for-the-badge)](#vision)
+[![Agents](https://img.shields.io/badge/Core%20AI%20Agents-150-brightgreen?style=for-the-badge)](#-the-150-ai-agents)
+[![AI OS](https://img.shields.io/badge/Enterprise-AI%20OS-purple?style=for-the-badge)](#-enterprise-ai-operating-system)
+[![Infrastructure](https://img.shields.io/badge/Capacity-3M%20Agents-orange?style=for-the-badge)](#vision)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 [**🌐 Live Website**](https://value-adders-agents-production.up.railway.app) · [**📄 Whitepaper**](https://value-adders-agents-production.up.railway.app/whitepaper) · [**👤 Founder**](https://value-adders-agents-production.up.railway.app/founder.html) · [**Projects**](projects/) · [**Contribute**](community/JOIN_US.md)
 
 ---
 
-> **"Anything that evolves adds value. Anything that adds value, flourishes."** — *Christopher Ikembasi *
+> **"Anything that evolves adds value. Anything that adds value, flourishes."** — *Christopher Ikembasi*
 
 </div>
 
@@ -48,6 +52,79 @@ Value Adders World is pioneering a new form of organization: a **digital corpora
 4. 🔄 **Evolve continuously** as technology and the world change
 
 This is not just a company. It is a **new form of organization** — proving AI can run ethical, mission-driven corporations that operate beyond any single human lifetime.
+
+---
+
+## 🧠 Enterprise AI Operating System
+
+**NEW IN 2024:** Value Adders World now runs on a complete Enterprise AI Operating System with 150 autonomous agents across 17 divisions:
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                     ENTERPRISE AI OPERATING SYSTEM                       ║
+║                                                                          ║
+║  ┌────────────────────────────────────────────────────────────────────┐ ║
+║  │                    150 AUTONOMOUS AGENTS                            │ ║
+║  │  Acquisition • Creative • Engineering • Product • Marketing        │ ║
+║  │  Sales • Finance • Legal • Customer Success • HR • Data Science   │ ║
+║  │  Operations • Governance • Innovation • Security • Sustainability │ ║
+║  │  Executive (CEO, COO, CFO, CTO, CMO, CAO)                         │ ║
+║  └────────────────────────────────────────────────────────────────────┘ ║
+║                                    │                                     ║
+║                                    ▼                                     ║
+║  ┌──────────────┐ ┌──────────────┐ ┌──────────────┐ ┌──────────────┐   ║
+║  │ OBSERVABILITY│ │  DECISIONING │ │ORCHESTRATION │ │  CONNECTORS  │   ║
+║  │   ActionLog  │ │  Guardrails  │ │ Action Queue │ │   Registry   │   ║
+║  │   Metrics    │ │  Learning    │ │Action Chains │ │   Webhooks   │   ║
+║  │   Alerts     │ │  Experiments │ │   Rollback   │ │ External API │   ║
+║  │Notifications │ │    Goals     │ │              │ │              │   ║
+║  └──────────────┘ └──────────────┘ └──────────────┘ └──────────────┘   ║
+║                                    │                                     ║
+║                                    ▼                                     ║
+║  ┌────────────────────────────────────────────────────────────────────┐ ║
+║  │                    GOVERNANCE & COMPLIANCE                          │ ║
+║  │        Immutable Audit Log • Hash Chain Integrity                  │ ║
+║  └────────────────────────────────────────────────────────────────────┘ ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+### System Layers
+
+| Layer | Components | Capability |
+|-------|------------|------------|
+| **🔭 Observability** | ActionLogger, Metrics, Alerts, Notifications | Full visibility into all agent activities |
+| **🧠 Decisioning** | Guardrails, Learning Loop, A/B Experiments, Goals | Intelligent decision-making with safety |
+| **🎯 Orchestration** | Action Queue, Chains, Rollback | Reliable execution with retry |
+| **🔌 Connectors** | 10 Integrations, 6 Webhook Endpoints, External API | Bi-directional external integrations |
+| **🛡️ Governance** | Immutable Audit Log, Hash Chain | Tamper-evident compliance |
+
+---
+
+## 🤖 The 150 AI Agents
+
+Our autonomous corporation is staffed by 150 specialized AI agents across 17 divisions:
+
+### Agent Divisions
+
+| Division | Agents | Focus |
+|----------|--------|-------|
+| **Executive** | CEO, COO, CFO, CTO, CMO, CAO | Strategic leadership |
+| **Acquisition** | Growth Hacker, Partnerships, Conversion | User acquisition |
+| **Creative** | Content, Design, Brand, Video | Creative production |
+| **Engineering** | Platform, DevOps, Security, QA | Technical development |
+| **Product** | Product Management, UX/UI Research | Product excellence |
+| **Marketing** | Content Marketing, SEO, Paid Media | Market presence |
+| **Sales** | SDR, Account Exec, Sales Ops | Revenue generation |
+| **Finance** | Controller, Revenue Ops, Pricing | Financial operations |
+| **Legal** | Compliance, Contracts, Privacy | Legal & governance |
+| **Customer Success** | Onboarding, Support, Retention | Customer care |
+| **HR** | Recruiting, Culture, People Ops | People operations |
+| **Data Science** | Analytics, ML, Data Engineering | Data intelligence |
+| **Operations** | Process, Vendor, Facilities | Operational excellence |
+| **Governance** | Risk, Audit, Policy | Enterprise governance |
+| **Innovation** | R&D, Emerging Tech, Patents | Future development |
+| **Security** | InfoSec, Penetration, Incident | Security operations |
+| **Sustainability** | ESG, Carbon, Social Impact | Environmental & social |
 
 ---
 
@@ -123,15 +200,33 @@ All projects under the Value Adders umbrella share the core philosophy: **"Add v
 | [**🛡️ PathLog**](projects/PATHLOG/) | Enterprise-grade security agent & encrypted memory service. AES-256-GCM encryption for the entire ecosystem. | 🟢 Active |
 | [**💰 Akuoma**](projects/AKUOMA/) | AI-powered microfinance for financial inclusion. Breaking the cycle of poverty through intelligent lending. | 🟡 Development |
 | [**🗣️ Incluview AI**](projects/INCLUVIEW/) | Inclusive Language Intelligence. Real-time bias detection across 7+ categories with adaptive learning. | 🟢 Active |
-| [**🤖 Value Adders Agents**](projects/AGENTS/) | The core 78+ agent platform powering all operations. | 🟢 Active |
+| [**🤖 Value Adders Agents**](projects/AGENTS/) | The core 150-agent platform powering all operations with Enterprise AI OS. | 🟢 **UPGRADED** |
 
 ### 📋 Future Projects
 
 | Project | Description | Status |
 |---------|-------------|--------|
-
 | **🔮 Valutoria** | Play-money prediction markets - collective intelligence without addiction | Planned |
 | **🏆 Gold Lord 2.0** | VIP Trading Strategy - intelligent, adaptive financial strategies | Planned |
+
+---
+
+## 🔌 Built-in Connectors
+
+The Enterprise AI OS includes 10 ready-to-use connectors:
+
+| Connector | Type | Actions |
+|-----------|------|---------|
+| **GitHub** | CI/CD | Issues, PRs, Releases, Workflows |
+| **Railway** | CI/CD | Deploy, Rollback, Scale, Logs |
+| **Netlify** | CI/CD | Deploy, Rollback, Cache |
+| **Slack** | Messaging | Messages, DMs, Channels |
+| **Stripe** | Payments | Customers, Subscriptions, Invoices |
+| **Twitter/X** | Social | Tweets, Replies, Engagement |
+| **Buffer** | Social | Schedule, Manage Posts |
+| **OpenAI** | AI | Chat, Embeddings, Images |
+| **Supabase** | Database | CRUD, Storage, RPC |
+| **Notion** | Data | Pages, Databases |
 
 ---
 
@@ -178,8 +273,13 @@ A core mission embedded in the corporation's DNA:
 │           │                                                     │
 │           ▼                                                     │
 │  ┌──────────────────────────────────────────────────────────┐  │
-│  │               OPERATIONS LATTICE                          │  │
-│  │  78+ Agents across all divisions                          │  │
+│  │             ENTERPRISE AI OPERATING SYSTEM               │  │
+│  │  Observability │ Decisioning │ Orchestration │ Connectors│  │
+│  └──────────────────────────────────────────────────────────┘  │
+│           │                                                     │
+│           ▼                                                     │
+│  ┌──────────────────────────────────────────────────────────┐  │
+│  │               150 AGENTS ACROSS 17 DIVISIONS             │  │
 │  │  ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐         │  │
 │  │  │   VRT   │ │ Papito  │ │PathLog  │ │ Akuoma  │         │  │
 │  │  │ Teams   │ │  AI     │ │Security │ │Microfi. │         │  │
@@ -203,7 +303,7 @@ A core mission embedded in the corporation's DNA:
 
 | Phase | Timeline | Goals |
 |-------|----------|-------|
-| **Phase 1: Foundation** | ✅ Current | 78 active agents, VRT + Papito operational |
+| **Phase 1: Foundation** | ✅ Complete | 150 agents, Enterprise AI OS, Full observability |
 | **Phase 2: Scale** | Months 1-6 | 1,000+ agents, multiple revenue streams |
 | **Phase 3: Expansion** | Months 6-18 | 100,000+ agents, tree planting begins |
 | **Phase 4: Maturity** | Year 2+ | 1,000,000+ agents, self-sustaining operations |
@@ -244,7 +344,7 @@ Value-Adders-World/
 │   ├── PATHLOG/          # Security & Encrypted Memory
 │   ├── AKUOMA/           # Microfinance Platform
 │   ├── INCLUVIEW/        # Inclusive Language Intelligence
-│   └── AGENTS/           # Core Agent Platform
+│   └── AGENTS/           # Core Agent Platform (150 agents, AI OS)
 ├── community/            # How to get involved
 └── resources/            # RAG, keywords, SEO
 ```
@@ -280,9 +380,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *The First Autonomous AI Corporation*
 
+*Now powered by 150 AI Agents • 17 Divisions • Enterprise AI Operating System*
+
 ---
 
-**Founded by Christopher Ikembasi **
+**Founded by Christopher Ikembasi**
 
 *Building technology that adds genuine value to humanity.*
 
