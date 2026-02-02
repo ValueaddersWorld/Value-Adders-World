@@ -1,48 +1,59 @@
-# 🤖 Value Adders Agents
+# Value Adders Agents
 
 ## The Core Agent Platform - Enterprise AI Operating System
 
 <div align="center">
 
 ![Value Adders AI Technologies](https://img.shields.io/badge/Value%20Adders-AI%20Technologies-blue?style=for-the-badge)
-![Agents](https://img.shields.io/badge/Agents-150-brightgreen?style=for-the-badge)
+![Agents](https://img.shields.io/badge/Agents-152+-brightgreen?style=for-the-badge)
 ![Divisions](https://img.shields.io/badge/Divisions-17-gold?style=for-the-badge)
 ![Framework](https://img.shields.io/badge/Framework-ADD%20VALUE-purple?style=for-the-badge)
 ![AI OS](https://img.shields.io/badge/Enterprise-AI%20OS-orange?style=for-the-badge)
 
-> **"Add value or don't act."** — *The Value Adders Creed*
+> **"Add value or don't act."** - *The Value Adders Creed*
 
 </div>
 
 ---
 
-## 🆕 What's New: Enterprise AI Operating System
+## February 2026 Update: Real Action Capabilities
 
-The Value Adders Agents platform has been **completely upgraded** with a full Enterprise AI Operating System:
+All key agents have been upgraded with **real action capabilities**. Agents no longer just generate text - they execute real-world actions:
 
-| Layer | Components | Purpose |
-|-------|------------|---------|
-| **🔭 Observability** | ActionLogger, Metrics, Alerts, Notifications | Full visibility into all agent activities |
-| **🧠 Decisioning** | Guardrails, Learning Loop, A/B Experiments, Measurable Goals | Intelligent decision-making with safety |
-| **🎯 Orchestration** | Action Queue, Action Chains, Rollback | Reliable execution with retry & compensation |
-| **🔌 Connectors** | 10 Integrations, 6 Webhook Endpoints, External API | Bi-directional external integrations |
-| **🛡️ Governance** | Immutable Audit Log, Hash Chain Integrity | Tamper-evident compliance |
+| Agent | Real Actions Enabled |
+|-------|---------------------|
+| **CEO Agent** | Email sending, Slack posting, investor outreach |
+| **Orchestrator Agent** | Team notifications, sprint broadcasts |
+| **Corporate Brain** | Executive briefs, decision logging to Notion |
+| **The General** | Directive sending, escalation to Slack |
+| **CEO Assistant** | Send on behalf of CEO, meeting scheduling |
+
+### Action Approval Tiers
+
+All real actions go through an approval system:
+
+| Tier | Color | Approval | Examples |
+|------|-------|----------|----------|
+| 1 | GREEN | Auto-execute | Status updates, internal notifications |
+| 2 | YELLOW | Async review | External communications, content publishing |
+| 3 | ORANGE | Sync approval | Partnerships, vendor agreements |
+| 4 | RED | Multi-person | Financial transactions, legal commitments |
 
 ---
 
 ## Overview
 
-The Value Adders Agents platform is the **central brain** of the autonomous AI corporation. It coordinates **150 AI agents** across **17 divisions**, powered by the ADD VALUE Framework and the Enterprise AI Operating System.
+The Value Adders Agents platform is the **central brain** of the autonomous AI corporation. It coordinates **152+ AI agents** across **17 divisions**, powered by the ADD VALUE Framework and the Enterprise AI Operating System.
 
 ---
 
-## 🎯 Mission
+## Mission
 
 Orchestrate autonomous multi-agent operations that add genuine value to humanity.
 
 ---
 
-## 🤖 The 150 AI Agents
+## The 152+ AI Agents
 
 ### Agent Divisions (17 Total)
 
@@ -66,11 +77,95 @@ Orchestrate autonomous multi-agent operations that add genuine value to humanity
 | **Security** | 10 | InfoSec, Penetration, Incident |
 | **Sustainability** | 6 | ESG, Carbon, Social Impact |
 
-**Total: 150 Agents**
+**Total: 152+ Agents**
 
 ---
 
-## 🧠 The ADD VALUE Framework Integration
+## Enterprise AI Operating System
+
+### System Architecture
+
+```
++------------------------------------------------------------------+
+|                     ENTERPRISE AI OPERATING SYSTEM                |
+|                                                                   |
+|  +-------------------------------------------------------------+ |
+|  |                    152+ AUTONOMOUS AGENTS                    | |
+|  |  Acquisition - Creative - Engineering - Product - Marketing  | |
+|  |  Sales - Finance - Legal - Customer Success - HR - Data Sci  | |
+|  |  Operations - Governance - Innovation - Security - Sustain   | |
+|  |  Executive (CEO, COO, CFO, CTO, CMO, CAO)                   | |
+|  +-------------------------------------------------------------+ |
+|                                |                                  |
+|                                v                                  |
+|  +--------------+ +--------------+ +--------------+ +-----------+ |
+|  | OBSERVABILITY| |  DECISIONING | |ORCHESTRATION | | CONNECTORS| |
+|  |   ActionLog  | |  Guardrails  | | Action Queue | |  Registry | |
+|  |   Metrics    | |  Learning    | |Action Chains | |  Webhooks | |
+|  |   Alerts     | |  Experiments | |   Rollback   | |External API| |
+|  |Notifications | |    Goals     | |              | |           | |
+|  +--------------+ +--------------+ +--------------+ +-----------+ |
+|                                |                                  |
+|                                v                                  |
+|  +-------------------------------------------------------------+ |
+|  |                    GOVERNANCE & COMPLIANCE                   | |
+|  |        Immutable Audit Log - Hash Chain Integrity            | |
+|  +-------------------------------------------------------------+ |
++------------------------------------------------------------------+
+```
+
+### System Layers
+
+| Layer | Components | Capability |
+|-------|------------|------------|
+| **Observability** | ActionLogger, Metrics, Alerts, Notifications | Full visibility into all agent activities |
+| **Decisioning** | Guardrails, Learning Loop, A/B Experiments, Goals | Intelligent decision-making with safety |
+| **Orchestration** | Action Queue, Chains, Rollback | Reliable execution with retry |
+| **Connectors** | 10 Integrations, 6 Webhook Endpoints, External API | Bi-directional external integrations |
+| **Governance** | Immutable Audit Log, Hash Chain | Tamper-evident compliance |
+
+---
+
+## Real Action Tools
+
+The platform includes production-ready tools for real-world execution:
+
+### Email Tool
+```python
+from tools.real_actions.email_tool import send_email
+
+result = await send_email(
+    to="investor@example.com",
+    subject="Value River Tech Lounge - Investment Opportunity",
+    body="...",
+    from_name="CEO Office - Value Adders"
+)
+```
+
+### Slack Tool
+```python
+from tools.real_actions.slack_tool import post_to_slack
+
+result = await post_to_slack(
+    message="Sprint completed successfully",
+    channel="#value-adders-sprints"
+)
+```
+
+### Notion Tool
+```python
+from tools.real_actions.notion_tool import create_notion_page
+
+result = await create_notion_page(
+    title="Q1 2026 Strategic Plan",
+    content="...",
+    database_id="..."
+)
+```
+
+---
+
+## The ADD VALUE Framework Integration
 
 Every agent operates with the 8-pillar cognitive protocol:
 
@@ -112,100 +207,7 @@ class ValueAdderAgent:
 
 ---
 
-## 🔧 Enterprise AI Operating System
-
-### Observability Layer
-
-```python
-from observability import get_action_logger, get_metrics
-
-# Every action is logged with full context
-logger = get_action_logger()
-logger.log_action(
-    agent_name="CEOAgent",
-    action_type="strategic_decision",
-    parameters={"decision": "expand to new market"},
-    result={"outcome": "approved"},
-)
-
-# Real-time metrics tracking
-metrics = get_metrics()
-metrics.record("actions_executed", 1, {"agent": "CEOAgent"})
-```
-
-### Decisioning Layer
-
-```python
-from decisioning import get_guardrails, get_goal_tracker
-
-# Guardrails check before every action
-guardrails = get_guardrails()
-decision = guardrails.check_action(
-    agent_name="FinanceAgent",
-    action_type="disburse_funds",
-    params={"amount": 10000},
-)
-
-if decision.approved:
-    execute_action()
-else:
-    print(f"Blocked: {decision.reason}")
-
-# Measurable goals with KPIs
-tracker = get_goal_tracker()
-goal = tracker.create_goal(
-    name="Launch VRT Platform",
-    kpis=[{
-        "name": "User Acquisition",
-        "metrics": [{"name": "signups", "target_value": 100}]
-    }]
-)
-```
-
-### Orchestration Layer
-
-```python
-from orchestration import enqueue_action, create_action_chain
-
-# Priority-based action queue
-action = enqueue_action(
-    action_type="deploy",
-    agent_name="DevOpsEngineerAgent",
-    parameters={"service": "vrt"},
-    priority=ActionPriority.HIGH,
-)
-
-# Multi-step action chains with rollback
-chain = create_action_chain("Deploy VRT to Production")
-chain.add_step("Run Tests", "run_tests", rollback_action_type="cleanup")
-chain.add_step("Build Image", "docker_build", depends_on=["step_1"])
-chain.add_step("Deploy", "deploy", depends_on=["step_2"])
-await get_chain_executor().execute_chain(chain.id)
-```
-
-### Connectors Layer
-
-```python
-from connectors import get_connector_registry, register_webhook_handler
-
-# Configure external integrations
-registry = get_connector_registry()
-registry.configure(
-    connector_id="github",
-    name="main-github",
-    credentials={"token": "ghp_xxxxx"},
-)
-
-# Handle inbound webhooks
-@register_webhook_handler("github")
-def handle_github_push(event):
-    if event.event_type == "push":
-        trigger_ci_pipeline(event.payload)
-```
-
----
-
-## 📊 Dashboard API (50+ Endpoints)
+## Dashboard API (50+ Endpoints)
 
 The AI OS exposes a comprehensive API:
 
@@ -224,7 +226,7 @@ The AI OS exposes a comprehensive API:
 
 ---
 
-## 🔌 Built-in Connectors (10)
+## Built-in Connectors (10)
 
 | Connector | Type | Supported Actions |
 |-----------|------|-------------------|
@@ -241,12 +243,13 @@ The AI OS exposes a comprehensive API:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |-----------|------------|
 | **Language** | Python 3.11+ |
 | **Framework** | AutoGen, FastAPI |
+| **AI Models** | OpenAI GPT-4o, Anthropic Claude |
 | **AI OS** | Custom Enterprise AI Operating System |
 | **Database** | PostgreSQL, JSON persistence |
 | **Queue** | Priority heap with disk persistence |
@@ -255,64 +258,73 @@ The AI OS exposes a comprehensive API:
 
 ---
 
-## 📁 Structure
+## Structure
 
 ```
 value-adders-agents/
-├── agents/                 # 150 AI agents across 17 divisions
-│   ├── base/              # AutonomousAgent base class
-│   ├── executive/         # CEO, COO, CFO, CTO, CMO, CAO
-│   ├── engineering/       # Platform, DevOps, Security
-│   ├── marketing/         # Content, SEO, Paid Media
-│   └── ...                # 14 more divisions
-│
-├── observability/          # AI OS: Observability Layer
-│   ├── action_logger.py   # Structured event logging
-│   ├── metrics.py         # Performance metrics
-│   ├── alerts.py          # Alert system
-│   └── notifications.py   # Slack, webhooks, email
-│
-├── decisioning/            # AI OS: Decisioning Layer
-│   ├── guardrails.py      # Safety checks
-│   ├── learning.py        # Outcome tracking
-│   ├── experiments.py     # A/B testing
-│   └── goal_framework.py  # Measurable KPIs
-│
-├── orchestration/          # AI OS: Orchestration Layer
-│   ├── action_queue.py    # Priority queue
-│   ├── action_chains.py   # Multi-step workflows
-│   └── rollback.py        # Compensation actions
-│
-├── connectors/             # AI OS: Connectors Layer
-│   ├── registry.py        # 10 built-in connectors
-│   ├── webhooks.py        # Inbound events
-│   └── external_api.py    # External action API
-│
-├── governance/             # AI OS: Governance Layer
-│   └── audit_log.py       # Immutable audit trail
-│
-├── api/                    # REST API
-│   └── routers/           # 50+ dashboard endpoints
-│
-└── frontend/public/        # Static frontend
+    agents/                     # 152+ AI agents across 17 divisions
+        ceo_agent.py            # CEO with real action capabilities
+        orchestrator_agent.py   # Sprint orchestration
+        corporate_brain.py      # Central decision-making
+        the_general.py          # Executive oversight
+        ...                     # 148+ more agents
+    
+    tools/
+        real_actions/           # Production action tools
+            email_tool.py       # Gmail/SendGrid integration
+            slack_tool.py       # Slack messaging
+            notion_tool.py      # Notion pages/databases
+            github_tool.py      # GitHub operations
+            shell_tool.py       # Shell command execution
+            register.py         # Tool registration with approval tiers
+    
+    observability/              # AI OS: Observability Layer
+        action_logger.py        # Structured event logging
+        metrics.py              # Performance metrics
+        alerts.py               # Alert system
+        notifications.py        # Slack, webhooks, email
+    
+    decisioning/                # AI OS: Decisioning Layer
+        guardrails.py           # Safety checks
+        learning.py             # Outcome tracking
+        experiments.py          # A/B testing
+        goal_framework.py       # Measurable KPIs
+    
+    orchestration/              # AI OS: Orchestration Layer
+        action_queue.py         # Priority queue
+        action_chains.py        # Multi-step workflows
+        rollback.py             # Compensation actions
+    
+    connectors/                 # AI OS: Connectors Layer
+        registry.py             # 10 built-in connectors
+        webhooks.py             # Inbound events
+        external_api.py         # External action API
+    
+    governance/                 # AI OS: Governance Layer
+        audit_log.py            # Immutable audit trail
+    
+    api/                        # REST API
+        routers/                # 50+ dashboard endpoints
+    
+    frontend/public/            # Static frontend
 ```
 
 ---
 
-## 📚 Resources
+## Resources
 
 - [Full Repository](https://github.com/ValueaddersWorld/value-adders-agents)
 - [ADD VALUE Framework Whitepaper](../../whitepaper/ADD_VALUE_FRAMEWORK.md)
-- [Enterprise AI OS Documentation](https://github.com/ValueaddersWorld/value-adders-agents/.agent/artifacts/ENTERPRISE_AI_OPERATING_SYSTEM.md)
+- [Live Dashboard](https://value-adders-agents-production.up.railway.app)
 
 ---
 
 <div align="center">
 
-**Value Adders Agents** — *The Brain of the Autonomous Corporation*
+**Value Adders Agents** - *The Brain of the Autonomous Corporation*
 
-*150 AI Agents • 17 Divisions • Enterprise AI Operating System*
+*152+ AI Agents - 17 Divisions - Enterprise AI Operating System*
 
-💜 *Add Value. We Flourish & Prosper.* 💜
+**Add Value. We Flourish and Prosper.**
 
 </div>
